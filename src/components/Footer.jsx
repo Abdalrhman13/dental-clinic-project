@@ -51,9 +51,6 @@ function Footer() {
 
                 <div className="border-t border-slate-100 py-8 flex flex-col md:flex-row items-center justify-between text-sm text-slate-500">
                     <p>© {new Date().getFullYear()} عيادة النور للأسنان. جميع الحقوق محفوظة.</p>
-                    <p className="mt-4 md:mt-0 font-medium">
-                        تطوير <span className="text-primary-500">مشروع جامعي</span>
-                    </p>
                 </div>
             </div>
         </footer>
